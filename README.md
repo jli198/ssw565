@@ -1,5 +1,7 @@
 # SSW 565: Software Architecture and Component Based Design
 
+![Stevens Transparent Logo](stevenslogo.png)
+
 Department of Systems and Enterprises </br>
 Fall 2024 </br>
 </br>
@@ -7,7 +9,7 @@ Instructor: Ying Wang </br>
 Canvas Course Address </br>
 Course Schedule: Monday 3:00pm-5:30pm </br>
 [Contact Info](mailto:ywang6@stevens.edu) </br>
-Office Hours: Office Hours and by appointment
+Office Hours: Office Hours and by appointment </br>
 Prerequisite(s): SSW 540 or equivalent experience
 
 ## COURSE DESCRIPTION
@@ -66,8 +68,8 @@ Your instructor and fellow students wish to foster a safe online learning enviro
 | Module | Week of | Topic | Text Book | Assignment | Optional Reading | Assignment Due date
 | --- | --- | --- | --- | --- | --- | ---
 | 1 | 9/9/24 | What is Software Architecture | **1-3** | Why arch is important (discussion) | 1Password upgrade Discussion | 9/15/24
-| 2 | 9/16/24 | Building Architecture | **4** | Quality attribute scenarios (group) | | 9/23/24
-| 3 | 9/23/24 | Tactics for Quality Attributes | **5-6** | Group Assignment | | 10/1/24
+| 2 | 9/16/24 | Understanding Quality Attributes | **3** | Quality attribute scenarios (group) | Mark Richards' Lesson 93 | 9/23/24
+| 3 | 9/23/24 | Tactics for Quality Attributes: Availabity and Performance | **4, 9** | Load Balancer | Netflix Simian Army | 10/1/24
 | 4 | 9/30/24 | Tactics for Quality Attributes | **7-8** | Group Assignment | | 10/9/24
 | 5 | 10/7/24 | Tactics for Quality Attributes | **9-10** | Group Assignment | | 10/17/24
 | 6 | 10/14/24 | Patterns, Styles & Tactics | **13** | Using patterns | Garland & Shaw 1994 | 10/25/24
@@ -89,7 +91,7 @@ Textbook(s): Software Architecture in Practice, 4th Edition, by Len Bass, Paul C
 
 **Participation:** Graded Discussions are required for participation. The discussion for each week is due at each Friday noon. </br>
 **Homework:** Homework are assigned each week. The homework is due midnight on the day before each week live class meeting. </br>
-**Exams:** Midterm and Final exams are required. Both are open-book, take home exam.
+**Exam:** Final exam is required. It is an open-book, take home exam.
 
 ## TECHNOLOGY REQUIREMENTS
 
@@ -140,7 +142,7 @@ Each week you will be given an assignment. You should submit answers to Canvas. 
 
 ### Undergraduate Honor System
 
-Enrollment into the undergraduate class of Stevens Institute of Technology signifies a student's commitment to the Honor System. Accordingly, the provisions of the Stevens Honor System apply to all undergraduate students in coursework and Honor Board proceedings. It is the responsibility of each student to become acquainted with and to uphold the ideals set forth in the Honor System Constitution. More information about the Honor System including the constitution, bylaws, investigative procedures, and the penalty matrix can be found [online](http://web.stevens.edu/honor/) </br>
+Enrollment into the undergraduate class of Stevens Institute of Technology signifies a student's commitment to the Honor System. Accordingly, the provisions of the Stevens Honor System apply to all undergraduate students in coursework and Honor Board proceedings. It is the responsibility of each student to become acquainted with and to uphold the ideals set forth in the Honor System Constitution. More information about the Honor System including the constitution, bylaws, investigative procedures, and the penalty matrix can be found [online](http://web.stevens.edu/honor/). </br>
 </br>
 The following pledge shall be written in full and signed by every student on all submitted work (including, but not limited to, homework, projects, lab reports, code, quizzes and exams) that is assigned by the course instructor. No work shall be graded unless the pledge is written in full and signed. </br>
 </br>
