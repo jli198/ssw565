@@ -1,0 +1,16 @@
+openapi: 3.0.0
+info:
+  title: Survey API
+  description: This is a simple API for managing survey data.
+  version: "1.0"
+servers:
+  - url: 'https://api.yourdomain.com/'
+  description: Production server
+paths:
+  /surveys:
+    get:
+      summary: Get list of all surveys
+      responses:
+        '200':
+          description: A list of surveys
+          content:
