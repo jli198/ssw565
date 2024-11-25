@@ -1,5 +1,7 @@
 # in-class exercise
 
+from clone_and_own import calculator
+
 def calculator_interests(amount, state = 'Default'):
   if state == 'DE':
     return amount * 0.06
@@ -17,8 +19,14 @@ class InterestsCalculator:
     return amount*0.05
 
 class DEInterestsCalculator:
-  def calculate_interests(self, amount):
-    return (amount+500)*0.06
+  def calculate_interests(self, amount, income=0):
+    print('income is', income)
+    if income >= 20000:
+      print('income is higher than 20000', income)
+      return amount * 0.06
+    else:
+      print('income is lower than 20000', income)
+      return (amount+500)*0.06
 
 class TxInterestsCalculator:
   def calculate_interests(self, amount):
